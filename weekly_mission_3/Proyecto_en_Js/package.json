@@ -1,0 +1,14 @@
+{
+  "name": "proyecto_en_js",
+  "version": "1.0.0",
+  "description": "",
+  "main": "my_launchx_app.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "author": "Hector",
+  "license": "ISC",
+  "devDependencies": {
+    "jest": "^27.5.1"
+  }
+}
